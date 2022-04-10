@@ -85,7 +85,7 @@
 | Diana DeGette      | 272,892        |   73.8% |
 | Raymon Anthony Doane | 11,606        |    3.1% |
   
-- Diana DeGette won the election. The number of votes that he received were 272,892 and percentage of the total votes was  73.8%.
+- Diana DeGette won the election. The number of received votes was 272,892 and percentage of the total votes was  73.8%.
   
   
  
