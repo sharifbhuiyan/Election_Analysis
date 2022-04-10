@@ -57,33 +57,26 @@
 - Diana DeGette won the election. The number of votes that he received were 272,892 and percentage of the total votes was  73.8%.
   
   
+ # Print the winning candidate (to terminal)
+ ```ruby
+    winning_candidate_summary = (
+        f"-------------------------\n"
+        f"Winner: {winning_candidate}\n"
+        f"Winning Vote Count: {winning_count:,}\n"
+        f"Winning Percentage: {winning_percentage:.1f}%\n"
+        f"-------------------------\n")
+    print(winning_candidate_summary)
+    
+ ```
 
-  ### i)  Stock analysis for the Year 2017 :
+    # Save the winning candidate's name to the text file
+    txt_file.write(winning_candidate_summary)
 
-
- 
-
-
-### ii)  Stock analysis for the Year 2018 :
-
-  <p align="center">
-  <img width="500" src=https://github.com/sharifbhuiyan/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png
-</p>
-
- 
-
+    
+    
+    
+    
 ## 3. Summary:
   <p align="justify">Though programmers and software developers refactor the code to improve the design, structure and implementation of software, besides advantages, it has disadvantages also.<p>
   
-###   Advantages:
-  - Almost all codes are available, no need to expedite whole thing.
-  - Codes are well organized.
-  - Helps to follow sequence. 
-  - It helps to find bugs
-  - Time saving
 
-  ```ruby
-    Dim tickervolumes(11) As Long
-    Dim tickerStartingPrice(11) As Single
-    Dim tickerEndingPrice(11) As Single
-  ```
