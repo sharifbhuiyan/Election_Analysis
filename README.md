@@ -100,13 +100,13 @@
   
 <p align="justify"> suppose for city elction, it is needed to change the all county tracking code <p>
 
-- Remove the code for tracking the largest county and county voter turnout.
+- Have to remove the code for tracking the largest county and county voter turnout.
 ```ruby   
 county_name = ""
 county_voting = 0
 ```
   
-  - Remove the printing code for the largest turnout county.
+  - Have to remove the code for printing the largest turnout county.
   
   ```ruby   
     winning_county_summary = (
