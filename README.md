@@ -1,13 +1,18 @@
-# Election_Analysis
-## **<h1 align="center"> Refactoring VBA _code for stock Analysis**
+## **<h1 align="center"> Election  Audit Analysis**
 
 
 
 
-  ## 1. Overview of Project: 
-<p align="justify">Refactoring-code, means the process of restructuring code without changing the original functionality. The only motive of refactoring is to improve the logic by doing many small changes without altering external behavior of the code. Project_Analysis VBA file is available in download link as below. <p>
+  ## 1. Overview of Election Audit: 
+<p align="justify">Election audit analysis was submitted to the election commission as per their requirement. Commission had the following requirement. <p>
   
-  
+- The voter turnout for each county
+- The percentage of votes from each county out of the total count
+- The county with the highest turnout
+
+
+  <p align="justify">Two technical analysis were performed to complete the Election audit analysis. The coding for the Election results was conducted by Python command line with VS code editor. Results also saved to a Text File. Project_Analysis VBA file is available in download link as below <p>
+
   - [ Year wise stock_Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
 
 
