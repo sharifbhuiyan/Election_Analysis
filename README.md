@@ -12,7 +12,7 @@
 
 <p align="justify">Two technical analysis were performed to complete the Election audit analysis. The coding for the Election results was conducted by Python command line with VS code editor. Results also saved to a Text File. <p>
 
-  Election audit Analysis Python.py file link -  [ Election  Audit Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
+  Election audit Analysis Python.py file link -  [ Election  Audit Analysis](https://github.com/sharifbhuiyan/Election_Analysis/blob/main/PyPoll_Challenge.py)  
 
   
 - Resources :
