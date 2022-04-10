@@ -95,7 +95,7 @@
     
     
 ## Election-Audit Summary:
-  <p align="justify">Though this analysis was for only few counties. however, if election commission wants to use it for other election, it can be applied for any election. Only few modifications are needed for that.
+  <p align="justify">Though this analysis was for only three candidates and three counties. however, if election commission wants to use it for other election, it can be applied for any election. Only few modifications are needed for that.
 <p>
   
 
