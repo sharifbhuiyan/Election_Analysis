@@ -98,4 +98,18 @@
   <p align="justify">Though this analysis was for only three candidates and three counties. however, if election commission wants to use it for other election, it can be applied for any election. Only few modifications are needed for that.
 <p>
   
+<p align="justify"> suppose for city elction, only need to change the count
+<p>
 
+  
+  - Have to remove the following code for the largest turnout county
+  
+  ```ruby   
+    winning_county_summary = (
+    f"-------------------------\n"
+    f"Largest County Turnout: {c_winning_county}\n"
+    # f"Winning Vote Count: {c_winning_count:,}\n"
+    # f"Winning Percentage: {c_winning_percentage:.1f}%\n"
+    f"-------------------------\n")
+    print(winning_county_summary)
+```
