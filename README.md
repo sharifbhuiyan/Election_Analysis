@@ -86,6 +86,14 @@
             f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
  ```
     
+```ruby
+    # 6f: Write an if statement to determine the winning county and get its vote count.
+        if (c_votes > c_winning_count) and (c_vote_percentage > c_winning_percentage):
+            c_winning_count = c_votes
+            c_winning_county= county_name
+            c_winning_percentage = c_vote_percentage 
+```    
+    
     
     
 ## 3. Summary:
