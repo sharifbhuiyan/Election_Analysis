@@ -10,11 +10,14 @@
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
+<p align="justify">Two technical analysis were performed to complete the Election audit analysis. The coding for the Election results was conducted by Python command line with VS code editor. Results also saved to a Text File. Election audit Analysis Python.py file is available in download link as below <p>
 
-  <p align="justify">Two technical analysis were performed to complete the Election audit analysis. The coding for the Election results was conducted by Python command line with VS code editor. Results also saved to a Text File. Project_Analysis VBA file is available in download link as below <p>
+  - [ Election  Audit Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
 
-  - [ Year wise stock_Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
-
+- Resources :
+            Data source : election_results.txt
+            Software : Python 3.10.4, 
+                      Visual Studio Code editor 1.66.0
 
 ## 2. Results: 
   
