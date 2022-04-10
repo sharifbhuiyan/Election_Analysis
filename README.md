@@ -70,7 +70,7 @@
  ```
 
     
-    ```ruby
+```ruby
     # Save the winning candidate's name to the text file
     txt_file.write(winning_candidate_summary)
 
@@ -84,7 +84,10 @@
         vote_percentage = float(votes) / float(total_votes) * 100
         candidate_results = (
             f"{candidate_name}: {vote_percentage:.1f}% ({votes:,})\n")
-    ```
+ ```
+    
+    
+    
 ## 3. Summary:
   <p align="justify">Though programmers and software developers refactor the code to improve the design, structure and implementation of software, besides advantages, it has disadvantages also.<p>
   
