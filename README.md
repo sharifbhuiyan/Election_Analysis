@@ -24,7 +24,11 @@
   
   ## 2. Election-Audit Results: 
   
-<p align="justify"> The election-audit analysis was furnished for three candidates with three counties. The Candidates were Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane  and the counties were Jefferson, Denver, Arapahoe. Final result snap shot was : <p>
+<p align="justify"> The election-audit analysis was furnished for three candidates with three counties. The Candidates were Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane  and the counties were Jefferson, Denver, Arapahoe. The snap shot of Final result in commandline and txt file was : <p>
+  
+  <p align="center">
+  <img width="500" src=https://github.com/sharifbhuiyan/Election_Analysis/blob/main/Resources/Anlysis_3.png
+</p>
   
   
  Election-Audit analysis outcomes were :
@@ -44,7 +48,7 @@
 
 - The number of votes and the percentage of the total votes each candidate received :
 
-  | 	Candate  | Number of received votes  | % of received vote |
+| 	Candate  | Number of received votes  | % of received vote |
 | :------------ |:---------------:| -----:|
 | Charles Casper Stockham      | 85,213 | 323.0% |
 | Diana DeGette      | 272,892        |   73.8% |
@@ -55,9 +59,7 @@
   
 
   ### i)  Stock analysis for the Year 2017 :
-<p align="center">
-  <img width="500" src=https://github.com/sharifbhuiyan/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png
-</p>
+
 
  
 
