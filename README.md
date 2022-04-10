@@ -19,18 +19,20 @@
             Software : Python 3.10.4, 
                       Visual Studio Code editor 1.66.0
 
-## 2. Results: 
+
   
-<p align="justify"> After Refactoring-code, It is possible to execute large data and no longer time will take to get result. It has expand the limitation. It is capable to include the entire stock market over the last few years. it will work as well for thousands of stocks. <p>
   
-  <p align="justify"> Arrys are created to make the project success :<p>
+  ## 2. Election-Audit Results: 
   
-  ```ruby
-    Dim tickervolumes(11) As Long
-    Dim tickerStartingPrice(11) As Single
-    Dim tickerEndingPrice(11) As Single
-```
+<p align="justify"> The election-audit analysis was furnished for three candidates with three counties. The Candidates were Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane  and the counties were Jefferson, Denver, Arapahoe. Final result snap shot was : <p>
   
+  
+ Election-Audit analysis outcomes were :
+
+- Total  369,711 votes were cast in this congressional election.
+
+- The number of votes and the percentage of total votes casted for each county was :
+ 
 
 | 	County  | % of casting vote  | Casting vote |
 | :------------ |:---------------:| -----:|
@@ -38,10 +40,17 @@
 | Denver      | 82.8%        |   306,055 |
 | Arapahoe | 6.7%        |    24,801 |
   
+- The county, Denver had the largest number of votes.
+
+- The number of votes and the percentage of the total votes each candidate received :
+
+  | 	Candate  | Number of received votes  | % of received vote |
+| :------------ |:---------------:| -----:|
+| Charles Casper Stockham      | 85,213 | 323.0% |
+| Diana DeGette      | 272,892        |   73.8% |
+| Raymon Anthony Doane | 11,606        |    3.1% |
   
-  
-  
-  
+- Diana DeGette won the election. The number of votes that he received were 272,892 and percentage of the total votes was  73.8%.
   
   
 
@@ -71,9 +80,8 @@
   - It helps to find bugs
   - Time saving
 
-
-
-### Disadvantages:
-  
-  - Though the code is pre-defined, no scope to experiment how to start coding from the beginning.
-  - It is not possible to know if there any bugs on it.
+  ```ruby
+    Dim tickervolumes(11) As Long
+    Dim tickerStartingPrice(11) As Single
+    Dim tickerEndingPrice(11) As Single
+  ```
