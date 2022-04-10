@@ -35,7 +35,7 @@
 </p>
   
   
-  The code for Save the winning candidate's name to the text file :
+  Code for Save the winning candidate's name to the text file :
   ```ruby
     
     txt_file.write(winning_candidate_summary)
@@ -43,7 +43,7 @@
 ```
   
     
- The code for print the winning candidate to terminal :
+ Code for print the winning candidate to terminal :
 
   
  ```ruby
