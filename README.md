@@ -3,26 +3,28 @@
 
 
 
-  ## 1. Overview of Election Audit: 
+  ## Overview of Election Audit: 
 <p align="justify">Election audit analysis was submitted to the election commission as per their requirement. Commission had the following requirement. <p>
   
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
 - The county with the highest turnout
 
-<p align="justify">Two technical analysis were performed to complete the Election audit analysis. The coding for the Election results was conducted by Python command line with VS code editor. Results also saved to a Text File. Election audit Analysis Python.py file is available in download link as below <p>
+<p align="justify">Two technical analysis were performed to complete the Election audit analysis. The coding for the Election results was conducted by Python command line with VS code editor. Results also saved to a Text File. <p>
 
-  - [ Election  Audit Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
+  Election audit Analysis Python.py file link -  [ Election  Audit Analysis](https://github.com/sharifbhuiyan/stock-analysis/blob/main/VBA_Challenge.xlsm)  
 
+  
 - Resources :
-            Data source : election_results.txt
-            Software : Python 3.10.4, 
-                      Visual Studio Code editor 1.66.0
+  - Data source : election_results.txt
+  - Software : Python 3.10.4, Visual Studio Code editor 1.66.0
 
 
   
+
   
-  ## 2. Election-Audit Results: 
+  
+ ## Election-Audit Results: 
   
 <p align="justify"> The election-audit analysis was furnished for three candidates with three counties. The Candidates were Charles Casper Stockham, Diana DeGette, Raymon Anthony Doane  and the counties were Jefferson, Denver, Arapahoe. The snap shot of Final result in commandline and txt file was : <p>
   
