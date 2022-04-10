@@ -4,7 +4,7 @@
 
 
   ## Overview of Election Audit: 
-<p align="justify">Election audit analysis was submitted to the election commission as per their requirement. Commission had the following additional requirement besides the details candidate results. <p>
+<p align="justify">Election audit analysis was submitted to the election commission as per their requirements. Commission had the following additional requirements with the details candidate results. <p>
   
 - The voter turnout for each county
 - The percentage of votes from each county out of the total count
