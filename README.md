@@ -98,11 +98,15 @@
   <p align="justify">Though this analysis was for only three candidates and three counties. however, if election commission wants to use it for other election, it can be applied for any election. Only few modifications are needed for that.
 <p>
   
-<p align="justify"> suppose for city elction, only need to change the count
-<p>
+<p align="justify"> suppose for city elction, it is needed to change the all county tracking code <p>
 
+- Remove the code for tracking the largest county and county voter turnout.
+```ruby   
+county_name = ""
+county_voting = 0
+```
   
-  - Have to remove the following code for the largest turnout county
+  - Remove the printing code for the largest turnout county.
   
   ```ruby   
     winning_county_summary = (
